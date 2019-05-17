@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="3" failures="2" disabled="0" errors="0" timestamp="2019-05-17T07:53:31" time="0" name="AllTests">
+  <testsuite name="SampleTest" tests="3" failures="2" disabled="0" errors="0" time="0">
+    <testcase name="foo" status="run" time="0" classname="SampleTest" />
+    <testcase name="goo" status="run" time="0" classname="SampleTest">
+      <failure message="Listener.cpp:31&#x0A;Failed" type=""><![CDATA[Listener.cpp:31
+Failed]]></failure>
+    </testcase>
+    <testcase name="hoo" status="run" time="0" classname="SampleTest">
+      <failure message="Listener.cpp:32&#x0A;Failed" type=""><![CDATA[Listener.cpp:32
+Failed]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
